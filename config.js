@@ -5,6 +5,6 @@
 // Quem protege os dados é o login + a lista de usuários autorizados no banco.
 
 window.SGQ_CONFIG = {
-  supabaseUrl: "COLE_AQUI_A_PROJECT_URL",      // ex.: https://abcdefghijk.supabase.co
-  supabaseAnonKey: "COLE_AQUI_A_ANON_PUBLIC_KEY",
+  supabaseUrl: "https://ypmapwfcqsyaggphmyip.supabase.co",
+  supabaseAnonKey: "sb_publishable_xJykPOVoSqC0RSFQoii5Gg_6icuaX2a",
 };
